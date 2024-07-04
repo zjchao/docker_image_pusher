@@ -1,5 +1,4 @@
 #支持私库
-ghcr.io/aquasecurity/trivy-java-db:1
-ghcr.io/aquasecurity/trivy-db:2
+centos:latest
 #支持指定架构
 # --platform=linux/arm64 xiaoyaliu/alist
